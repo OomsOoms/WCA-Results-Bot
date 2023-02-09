@@ -1,0 +1,22 @@
+id	name
+222	2x2                  
+333	3x3                  
+333bf	3BLD                
+333fm	FMC                  
+333ft	3x3 WF            
+333mbf	3x3 MBLD        
+333mbo	3x3 MBLD Old Style
+333oh	3x3 OH            
+444	4x4                  
+444bf	4BLD                
+555	5x5                  
+555bf	5BLD                
+666	6x6                  
+777	7x7                  
+clock	Clock              
+magic	Magic              
+minx	Megaminx        
+mmagic	Master Magic
+pyram	Pyraminx        
+skewb	Skewb            
+sq1	Square-1        
